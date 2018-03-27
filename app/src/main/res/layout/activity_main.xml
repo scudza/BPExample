@@ -9,7 +9,7 @@
     android:layout_marginLeft="48dp"
     android:layout_marginRight="48dp"
     android:layout_marginTop="16dp"
-    tools:context="exampl.jarred.com.bpexample.MainActivity"
+    tools:context="exampl.jarred.com.bpexample.LoginActivity"
     >
 
     <LinearLayout
