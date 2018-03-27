@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BPExample</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+
+    <string name="logged_in">logged in! woohoo</string>
+    <string name="cannot_login">cannot login</string>
+
+
+
+</resources>
